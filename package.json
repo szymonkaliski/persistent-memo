@@ -1,5 +1,5 @@
 {
-  "name": "persistent-memoize",
+  "name": "persistent-memo",
   "description": "Like memoize, but persists on local filesystem (node) or `localStorage` (browser).",
   "version": "0.0.1",
   "main": "index.js",

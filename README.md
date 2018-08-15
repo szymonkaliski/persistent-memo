@@ -1,4 +1,4 @@
-# persistent-memoize
+# persistent-memo
 
 Like memoize, but persists on local filesystem (node) or `localStorage` (browser).
 
@@ -6,7 +6,7 @@ This module works great with tools that do live-reload (`nodemon`, `budo`, etc.)
 
 ## installation
 
-`npm install persistent-memoize`
+`npm install persistent-memo`
 
 ## usage
 
