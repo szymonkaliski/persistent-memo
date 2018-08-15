@@ -1,0 +1,14 @@
+{
+  "name": "persistent-memoize",
+  "description": "Like memoize, but persists on local filesystem (node) or `localStorage` (browser).",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Szymon Kaliski <hi@szymonkaliski.com> (http://szymonkaliski.com)",
+  "license": "MIT",
+  "dependencies": {
+    "json-fn": "^1.1.1"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
